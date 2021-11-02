@@ -29,5 +29,8 @@ Api for other bots :)
 <br>
 <hr>
 <h1>IMPORTANT!<h1>
-<br>
 <h3>ALL REQUESTS NEED TO BE IN GET REQUEST METHOD</h3>
+<br>
+<h3>REMEMBER TO CONFIG YOUR DATABASE IN inc/config.php</h3>
+  <br>
+  <h5 style='text-align=center;'><cursive>MY DISCORD IS INPL4YSS#8828</h5>
