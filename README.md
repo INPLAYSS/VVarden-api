@@ -20,9 +20,12 @@ Api for other bots :)
 <h1> HOW TO OPEN API:</h1>
 <span>http://localhost/index.php/api/getUser?userid=xxx</span>
 <br>
+<br>
 <span>https://yourdomainurl + yourdomainextension/index.php/api/getUser?userid=xxx</span>
 <br>
+<br>
 <span>https://yourpublicipaddress/index.php/api/getUser?userid=xxx</span>
+<br>
 <br>
 <hr>
 <h1>IMPORTANT!<h1>
